@@ -1,0 +1,6 @@
+c:\users\student.admin\documents\visual studio 2013\Projects\Libary Management System\Libary Management System\bin\Debug\Libary Management System.exe.config
+c:\users\student.admin\documents\visual studio 2013\Projects\Libary Management System\Libary Management System\bin\Debug\Libary Management System.exe
+c:\users\student.admin\documents\visual studio 2013\Projects\Libary Management System\Libary Management System\bin\Debug\Libary Management System.pdb
+c:\users\student.admin\documents\visual studio 2013\Projects\Libary Management System\Libary Management System\obj\Debug\Libary Management System.csprojResolveAssemblyReference.cache
+c:\users\student.admin\documents\visual studio 2013\Projects\Libary Management System\Libary Management System\obj\Debug\Libary Management System.exe
+c:\users\student.admin\documents\visual studio 2013\Projects\Libary Management System\Libary Management System\obj\Debug\Libary Management System.pdb
